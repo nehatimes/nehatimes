@@ -1,2 +1,2 @@
 # marko
-Photo Gallery
+Photo Gallery, this is to view the posters category wise.
