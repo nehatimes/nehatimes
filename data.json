@@ -1,0 +1,17 @@
+{
+    "categories": [
+      {
+        "name": "Porche",
+        "images": ["images/Porche/photo1.jpg", "images/Porche/photo2.jpg"]
+      },
+      {
+        "name": "Shinchan",
+        "images": ["images/Shinchan/photo1.jpg", "images/Shinchan/photo2.jpg"]
+      },
+      {
+        "name": "Abstract",
+        "images": ["images/Abstract/photo1.jpg", "images/Abstract/photo2.jpg"]
+      }
+    ]
+  }
+  
