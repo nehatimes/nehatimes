@@ -1,0 +1,11 @@
+{
+    "name": "marko",
+    "version": "1.0.0",
+    "description": "A Photo viewer project",
+    "main": "generateData.js",
+    "scripts": {
+      "start": "node generateData.js"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
