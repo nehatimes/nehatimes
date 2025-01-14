@@ -1,10 +1,27 @@
 {
   "categories": [
     {
-      "name": "Abstract",
+      "name": "Actors",
       "images": [
-        "images/Abstract/download.jpg",
-        "images/Abstract/download1.jpg"
+        "images/Actors/image.jpg"
+      ]
+    },
+    {
+      "name": "Anime",
+      "images": [
+        "images/Anime/image.jpg"
+      ]
+    },
+    {
+      "name": "Cricket",
+      "images": [
+        "images/Cricket/image.jpg"
+      ]
+    },
+    {
+      "name": "Naruto",
+      "images": [
+        "images/Naruto/image.jpg"
       ]
     },
     {
@@ -15,9 +32,28 @@
       ]
     },
     {
+      "name": "Quotes",
+      "images": [
+        "images/Quotes/image.jpg"
+      ]
+    },
+    {
       "name": "Shinchan",
       "images": [
         "images/Shinchan/download.jpg"
+      ]
+    },
+    {
+      "name": "Singer",
+      "images": [
+        "images/Singer/image.jpg",
+        "images/Singer/image1.jpg"
+      ]
+    },
+    {
+      "name": "Super hero",
+      "images": [
+        "images/Super hero/image.jpg"
       ]
     }
   ]
